@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html >
+
+<body style="background: #272626;">
+	<h1 style="text-align: center;"><font color="#d14f18"> Cancer Classification </font></h1>
+    <h2 style="text-align: center;"> <font color="#e6e2e2" size="5"> Enter measurements: </font></h2>
+
+     <!-- Main Input For Receiving Query to our ML -->
+    <form action='/results'method="post" style="text-align: center;">
+    	  <input type="text" name="radius_mean" placeholder="radius mean" required="required" /><br>
+        <input type="text" name="perimeter_mean" placeholder="perimeter mean" required="required" /><br>
+        <input type="text" name="area_mean" placeholder="area mean" required="required" /><br>
+        <input type="text" name="concavity_mean" placeholder="concavity mean" required="required" /><br>
+        <input type="text" name="concave_points_mean" placeholder="concave points mean" required="required" /><br>
+        <input type="text" name="radius_worst" placeholder="radius worst" required="required" /><br>
+        <input type="text" name="perimeter_worst" placeholder="perimeter worst" required="required" /><br>
+        <input type="text" name="area_worst" placeholder="area worst" required="required" /><br>
+        <input type="text" name="concave_points_worst" placeholder="concave points worst" required="required" /><br>
+
+        <br> 
+        <button type="submit" value="Results">Let's find out if you have cancer!</button>
+        
+    </form>
+
+    <br>
+    <br>
+
+ </div>
+
+
+</body>
+</html>
