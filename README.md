@@ -50,12 +50,15 @@ My project directory looks like this:
 * requirements.txt: contains the packages needed in this project
 
 ## Running the model:
-To run the model, simply run: ![image](https://user-images.githubusercontent.com/98763090/236379334-31700018-34f5-4cdb-b73f-033afeabb768.png)
+To run the model, simply run: 
+![image](https://user-images.githubusercontent.com/98763090/236379334-31700018-34f5-4cdb-b73f-033afeabb768.png)
 
-Then, this will show in the terminal: ![image](https://user-images.githubusercontent.com/98763090/236379388-38ecaaaa-dc6d-4511-ab5b-03f65814fbdf.png)
+Then, this will show in the terminal: 
+![image](https://user-images.githubusercontent.com/98763090/236379388-38ecaaaa-dc6d-4511-ab5b-03f65814fbdf.png)
 
 
-The home page looks like this: ![image](https://user-images.githubusercontent.com/98763090/236379458-d858115b-54da-401a-8224-36ba96fe3ca8.png)
+The home page looks like this: 
+![image](https://user-images.githubusercontent.com/98763090/236379458-d858115b-54da-401a-8224-36ba96fe3ca8.png)
 
 
 ### Output
