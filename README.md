@@ -43,13 +43,36 @@ projects due to its simple abstraction and general ease of use. For more info, v
 My project directory looks like this:
 ![image](https://user-images.githubusercontent.com/98763090/236378264-48d80347-db78-4409-93e6-e7ca62121948.png)
 
-#### The Application folder: contains all the working files in Python and HTML
-#### Cancer_Data.csv: the downloaded dataset 
-#### config.py: the configuration items
-#### model.pkl: pickled model from running models.py (Run: "python models.py")
-#### requirements.txt: contains the packages needed in this project
+* The Application folder: contains all the working files in Python and HTML
+* Cancer_Data.csv: the downloaded dataset 
+* config.py: the configuration items
+* model.pkl: pickled model from running models.py (Run: "python models.py")
+* requirements.txt: contains the packages needed in this project
+
+## Running the model:
+To run the model, simply run: ![image](https://user-images.githubusercontent.com/98763090/236379334-31700018-34f5-4cdb-b73f-033afeabb768.png)
+
+Then, this will show in the terminal: ![image](https://user-images.githubusercontent.com/98763090/236379388-38ecaaaa-dc6d-4511-ab5b-03f65814fbdf.png)
+
+
+The home page looks like this: ![image](https://user-images.githubusercontent.com/98763090/236379458-d858115b-54da-401a-8224-36ba96fe3ca8.png)
 
 
 ### Output
-![image](https://user-images.githubusercontent.com/98763090/236377688-7894925b-e421-4a52-91fc-7ecab158f102.png)
+
+To test the model, I fill up the forms as shown:
+![image](https://user-images.githubusercontent.com/98763090/236379587-b5376744-098d-4262-8656-677ad554056c.png)
+
+Then after clicking the button below it, I can finally see the result!
+Ta-dah!
+![image](https://user-images.githubusercontent.com/98763090/236379678-d9a101eb-f33f-48b2-9c14-1b13b8b7eaf6.png)
+
+Alternatively, if the news was bad:
+![image](https://user-images.githubusercontent.com/98763090/236379754-7e424788-5ea0-4a76-acfd-b2e256d7072a.png)
+
+Thanks for making it to this point. Hope you liked my project :)
+
+
+
+
 
