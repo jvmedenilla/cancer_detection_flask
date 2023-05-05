@@ -22,7 +22,7 @@ Then, I only selected the top 9 features. There's not reason for choosing 9, oth
 number of features without leaving out too many. Also, it would be really hard to test the model on Flask if
 I have a thousand forms to fill (LOL).
 
-## The Model: XHBoost
+## The Model: XGBoost
 
 Gradient boosting is a powerful machine learning model that is regarded as one of the fastest and 
 accurate model to use for regression and classification. Boosting is a method widely used in 
@@ -32,4 +32,24 @@ b) https://www.analyticsvidhya.com/blog/2021/09/gradient-boosting-algorithm-a-co
 
 I installed XGBoost from [XGBoost documentation](https://xgboost.readthedocs.io/en/stable/install.html).
 ![image](https://user-images.githubusercontent.com/98763090/236376841-41a06895-2c36-498a-8545-9e8df9190b7c.png)
+
+## The Deployment: Flask
+
+Flask is a web framework in Python that is easy to use and very accessible. It is ideal for simple machine learning
+projects due to its simple abstraction and general ease of use. For more info, visit [Flask Documentation](https://flask.palletsprojects.com/en/2.3.x/).
+
+### Files:
+
+My project directory looks like this:
+![image](https://user-images.githubusercontent.com/98763090/236378264-48d80347-db78-4409-93e6-e7ca62121948.png)
+
+#### The Application folder: contains all the working files in Python and HTML
+#### Cancer_Data.csv: the downloaded dataset 
+#### config.py: the configuration items
+#### model.pkl: pickled model from running models.py (Run: "python models.py")
+#### requirements.txt: contains the packages needed in this project
+
+
+### Output
+![image](https://user-images.githubusercontent.com/98763090/236377688-7894925b-e421-4a52-91fc-7ecab158f102.png)
 
