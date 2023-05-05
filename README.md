@@ -7,7 +7,7 @@ Given a csv file containing the measurements of cells to evaluate, the task is t
 each cell as benign or malignant.
 
 ## The Dataset: Cancer Data (Kaggle)
-I got the dataset from Kaggle: https://www.kaggle.com/datasets/erdemtaha/cancer-data
+I got the dataset from Kaggle: https://www.kaggle.com/datasets/erdemtaha/cancer-data.
 This dataset contains 570 cancer cells and 30 features to determine 
 whether the cancer cells are benign or malignant.
 
