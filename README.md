@@ -76,11 +76,3 @@ Alternatively, if the news was bad:
 Thanks for making it to this point. Hope you liked my project :)
 
 
-Feel free to cite, if found useful:
-@misc{jvmedenilla,
-  Author = {Vincent Medenilla},
-  Title = {Cancer Detection using XGBoost, Flask},
-  Year = {2023}
-}
-
-
