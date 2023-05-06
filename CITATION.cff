@@ -1,0 +1,9 @@
+cff-version: 1.2.0
+message: "If you find this helpful, please cite it as below."
+authors:
+- family-names: "Medenilla"
+  given-names: "Vincent"
+title: "cancer_detection_flask"
+version: 1.0.0
+date-released: 2023-05-06
+url: "https://github.com/jvmedenilla/cancer_detection_flask"
