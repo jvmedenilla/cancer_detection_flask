@@ -75,4 +75,11 @@ Alternatively, if the news was bad:
 
 Thanks for making it to this point. Hope you liked my project :)
 
-
+@software{Medenilla_cancer_detection_flask_2023,
+author = {Medenilla, Vincent},
+month = may,
+title = {{cancer_detection_flask}},
+url = {https://github.com/jvmedenilla/cancer_detection_flask},
+version = {1.0.0},
+year = {2023}
+}
