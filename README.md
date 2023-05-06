@@ -11,7 +11,7 @@ I got the dataset from Kaggle: https://www.kaggle.com/datasets/erdemtaha/cancer-
 This dataset contains 570 cancer cells and 30 features to determine 
 whether the cancer cells are benign or malignant.
 
-However, there are two many features. For a machine learning model to be robust and operate relatively fast,
+However, there are too many features. For a machine learning model to be robust and operate relatively fast,
 the number of features should be minimized -- only selecting the most relevant features. So, I did some pre-processing work.
 As can be seen in [cancer_detection.ipynb](https://github.com/jvmedenilla/cancer_detection_flask/blob/main/cancer_detection.ipynb).
 
